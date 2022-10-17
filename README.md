@@ -8,7 +8,7 @@ This repo contains my module 5 assignment. It allows me to demonstrate my skills
 - SDK
 - API: API key and API secret key
 - Monte Carlo Simulation: distribution, confidence intervals
-- json
+- Json
 - Suppress Warnings
 - Different portfolio combinations: higher initial investment, different stocks to bonds ratio
 - Retirement Planning
